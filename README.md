@@ -1,2 +1,9 @@
 # prebootcamp-Alfredo-Gonzales-Ramirez
-Repositorio prebootcamp
+Nombre completo: Alfredo Valentino Gonzales Ramirez
+Nivel: Básico
+Tecnologías usadas:
+- HTML5
+- JavaScript
+- Git
+- GitHub
+- VSCode
