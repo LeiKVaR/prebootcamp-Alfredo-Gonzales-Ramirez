@@ -1,9 +1,2 @@
 # prebootcamp-Alfredo-Gonzales-Ramirez
-Nombre completo: Alfredo Valentino Gonzales Ramirez
-Nivel: Básico
-Tecnologías usadas:
-- HTML5
-- JavaScript
-- Git
-- GitHub
-- VSCode
+En esta rama estaran las actualizaciones a medidad que avance hasta la ruta avanzada
